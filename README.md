@@ -1,4 +1,4 @@
-const aboutAbdulsalam = {
+const aboutAbdulsalam = <br>
     Firstname:"Mohammed",
     Lastname:"Abdulsalam",
     fullName: `${Firstname} + " " + ${lastName }`,
@@ -7,7 +7,7 @@ const aboutAbdulsalam = {
     jobStatus: ["Intern at STEMLab"],
     hobbies: ["Learning new things","Reading","Watching documentaries","","Solving Problems"],
     techStack:["HTML","CSS","JavaScript","SASS","Tailwind CSS","React", "Wordpress"],
-    humanResourceStack:["Agile", "Kanban", "Navision", "BambooHR", "Web-HR", "Workable", "Bitrix24"],
+    humanResourceStack:["Agile", "Kanban", "Navision", "BambooHR", "Web-HR", "Workable", "Bitrix24"],<br>
     isWorkingNow: false,
     educationLevel: {
         bachlorsDegree: "BSc in Public Administration",
