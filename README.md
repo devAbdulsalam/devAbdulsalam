@@ -5,7 +5,7 @@ const aboutAbdulsalam = <br>
     pronouns: ["He", "Him"],<br>
     nationality: "Nigeria",<br>
     jobStatus: ["Intern at STEMLab"],<br>
-    hobbies: ["Learning new things","Reading","Watching documentaries","","Solving Problems"],<br>
+    hobbies: ["Learning new things","Reading","Watching documentaries","Solving Problems"],<br>
     techStack:["HTML","CSS","JavaScript","SASS","Tailwind CSS","React", "Wordpress"],<br>
     humanResourceStack:["Agile", "Kanban", "Navision", "BambooHR", "Web-HR", "Workable", "Bitrix24"],<br>
     isWorkingNow: false,<br>
