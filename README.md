@@ -1,6 +1,6 @@
 const aboutAbdulsalam = <br>
-    firstName:"Mohammed",<br>
-    lastName:"Abdulsalam",<br>
+    firstName: "Mohammed",<br>
+    lastName: "Abdulsalam",<br>
     fullName: `${Firstname} + " " + ${lastName }`,<br>
     pronouns: ["He", "Him"],<br>
     nationality: "Nigeria",<br>
