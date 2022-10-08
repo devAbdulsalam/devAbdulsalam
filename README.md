@@ -19,3 +19,4 @@ const aboutAbdulsalam = <br>
     nowLearning: ["Full stack web developement at STEMLab Kano"],<br>
     lookingForNewOpportunities: true<br>
 }
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
