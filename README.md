@@ -3,7 +3,7 @@ const aboutAbdulsalam = <br>
     lastName: "Abdulsalam",<br>
     fullName: `${Firstname} + " " + ${lastName }`,<br>
     pronouns: ["He", "Him"],<br>
-    nationality: "Nigeria",<br>
+    nationality: "Nigerian",<br>
     jobStatus: ["Intern at STEMLab"],<br>
     hobbies: ["Learning new things","Reading","Watching documentaries","Solving Problems"],<br>
     techStack:["HTML","CSS","SASS","Tailwind CSS","JavaScript","React","Wordpress"],<br>
