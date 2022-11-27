@@ -1,20 +1,50 @@
-Name: Abdulsalam Mohammed 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-🧑‍💻I am a passionate, Self Motivated and Hardworking Web developer & I enjoy learning new things and Solving Problems.
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-• 🌏 With Entrepreneurial Mindset I am contributing in others startup. As well as worked on my startup has interest in modern app development and excellent design.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My name is Abdulsalam Mohammed 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested to work as a fulltime; or Remote React developer.; nice to meet you&font=Fira%20Code&center=true&width=540&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
 
-• Interested to work as a fulltime or Remote JavaScript/ React developer.
+## 🙋‍♂️ About Me
+
+- 🧑‍🔭I am a passionate, Self Motivated and Hardworking Web developer who enjoy's learning new things and solving problems.
+- 🌏 With Entrepreneurial Mindset I love contributing in startup and open source projects, as well as worked on my startup.
+- 🌱 I’m currently learning **Backend** technology as an Intern at STEMLab Kano
+- 👨‍💻 When I'm not building softwares or have some free time, I'm either watching documentaries & looking for new opportunities.
+- 💬 reach me @ **ammuftau74@gmail.com**
+
+## ⚡Favourite Qoutes:
+• Sometimes you have to run before you could walk 😊 <br>
+• Some things take time. Stay patient and stay positive, things will get better.😊
+
+
+## Degree and Certification : 💸🧑‍
+- 📄 BSc in Public Administration
+- 📫 ACIPM inview
+
+
+<br>
+<h2 align="center">📱 Connect with me</h2>
+<br />
+
+<p align="center">
+<a href="https://github.com/devAbdulsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/devAbdulsalam" height="30" width="40" /></a>
+<a href="https://twitter.com/MMAbdulsalam001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/MMAbdulsalam001" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abdulsalammmuftua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdulsalammmuftua" height="30" width="40" /></a>
+</p>
+<br />
 
 
 <hr />
 
-
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
-<div align="center">
  
- <div align="center"><h3 align="center">Frontend  🛄</h3>
+<div align="center"><h3 align="center">Frontend 🛄</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
@@ -28,14 +58,19 @@ Name: Abdulsalam Mohammed
   
 </div>
  <br/>
-  <div align="center"><h3 align="center">Backend  🛄</h3> 
+ <div align="center">
+       <h3 align="center">Project Management Tools and Skills 👨‍💻: </h3>
+       Agile | Kanban | Navision | BambooHR | Web-HR | Workable | Bitrix24
+ </div>
+ <br/>
+  <div align="center"><h3 align="center">Backend  🔥</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
 <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
  </div>
   
-  <div align="center"><h3 align="center">Tools</h3> 
+  <div align="center"><h3 align="center">Other Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
@@ -50,24 +85,6 @@ Name: Abdulsalam Mohammed
 </div>
 
 <br/>
-Project Management Skills : 🧑‍💻
-- Agile | Kanban | Navision | BambooHR | Web-HR | Workable | Bitrix24
 
-Degree and Certification : 💸
-- BSc in Public Administration
-- ACIPM inview
-
- Job Status: 
-- currently an Intern at STEMLab Kano
-
- Email: ammuftau74@gmail.com
-Linkedin : www.linkedin.com/in/abdulsalammmuftua 
-Twitter:  https://twitter.com/MMAbdulsalam001
-
-Favourite Qoutes: 
-• Sometimes you have to run before you could walk 😊
-• Some things take time. Stay patient and stay positive, things will get better.😊
-
- When I'm not building softwares or have some free time, I'm either watching documentaries looking for new opportunities
  
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
