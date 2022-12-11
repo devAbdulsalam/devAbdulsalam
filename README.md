@@ -12,8 +12,8 @@
 ## 🙋‍♂️ About Me
 
 - 🧑‍🔭I am a passionate, Self Motivated and Hardworking Web developer who enjoy's learning new things and solving problems.
-- 🌏 With Entrepreneurial Mindset I love contributing in startup and open source projects, as well as worked on my startup.
-- 🌱 I’m currently learning **Backend** technology as an Intern at STEMLab Kano
+- 🌏 With Entrepreneurial Mindset I love contributing to startup and open source projects, as well as worked on building myown startup as well.
+- 🌱 I’m currently learning **Full stack** web technology as an Intern at STEMLab Kano
 - 👨‍💻 When I'm not building softwares or have some free time, I'm either watching documentaries & looking for new opportunities.
 - 💬 reach me @ **ammuftau74@gmail.com**
 
@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://github.com/devAbdulsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/devAbdulsalam" height="30" width="40" /></a>
 <a href="https://twitter.com/MMAbdulsalam001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/MMAbdulsalam001" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/abdulsalammmuftua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdulsalammmuftua" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulsalammmuftua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdulsalammmuftua" height="30" width="40" /></a>
 </p>
 <br />
 
