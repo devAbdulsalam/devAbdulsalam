@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About Me
 
 - 🧑‍🔭I am a passionate, Self Motivated and Hardworking Web developer who enjoy's learning new things and solving problems.
-- 🌏 With Entrepreneurial Mindset I love contributing to startup and open source projects, as well as worked on building myown startup as well.
+- 🌏 With Entrepreneurial Mindset I love contributing to startup and open source projects, as well as teaching and mentoring others.
 - 🌱 I’m currently learning **Full stack** web technology as an Intern at STEMLab Kano
 - 👨‍💻 When I'm not building softwares or have some free time, I'm either watching documentaries & looking for new opportunities.
 - 💬 reach me @ **ammuftau74@gmail.com**
