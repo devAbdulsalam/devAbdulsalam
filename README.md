@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/devAbdulsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/devAbdulsalam" height="30" width="40" /></a>
-<a href="https://twitter.com/MMAbdulsalam001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/MMAbdulsalam001" height="30" width="40" /></a>
+<a href="https://twitter.com/abdulsalamm74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abdulsalam74" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulsalammmuftua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdulsalammmuftua" height="30" width="40" /></a>
 </p>
 <br />
