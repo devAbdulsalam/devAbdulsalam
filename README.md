@@ -22,11 +22,6 @@
 • Some things take time. Stay patient and stay positive, things will get better.😊
 
 
-## Degree and Certification : 💸🧑‍
-- 📄 BSc in Public Administration
-- 📫 ACIPM inview
-
-
 <br>
 <h2 align="center">📱 Connect with me</h2>
 <br />
@@ -68,6 +63,8 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
 <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+<img src="https://img.shields.io/badge/motoko%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="motoko"/>
+<img src="https://img.shields.io/badge/react-native%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="react native"/>
  </div>
   
   <div align="center"><h3 align="center">Other Tools</h3> 
