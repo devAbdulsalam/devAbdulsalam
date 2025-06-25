@@ -11,14 +11,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🧑‍🔭I am a passionate, Self Motivated and Hardworking Web developer who enjoy's learning new things and solving problems.
-- 🌏 With entrepreneurial mindset I love contributing to startup and open source projects, as well as teaching and mentoring others.
-- 🌱 I’m currently learning **Full stack** web technology as an Intern at **STEMLab Kano**
-- 👨‍💻 When I'm not building softwares or have some free time, I'm either watching documentaries & looking for new opportunities.
+- 🧑‍🔭I am a passionate Web developer who enjoy's learning new things and solving problems.
+- 🌏 With an entrepreneurial mindset, I love contributing to startups and open-source projects.
+- 🌱 I’m currently a project manager and **Full stack** developer at  **STEMLab Kano**
+- 👨‍💻 When I'm not building software or have some free time, I'm either watching documentaries & teaching and mentoring others.
 - 💬 reach me @ **ammuftau74@gmail.com**
 
-## ⚡Favourite Qoutes:
-• Sometimes you have to run before you could walk 😊 <br>
+## ⚡Favourite Quotes:
+• Sometimes you have to run before you can walk 😊 <br>
 • Some things take time. Stay patient and stay positive, things will get better.😊
 
 
